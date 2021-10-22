@@ -13,6 +13,11 @@ It is needed to install ESPnet (https://github.com/espnet/espnet).
 
 # Installation
 
+Download the pre-trained model from https://www.mediafire.com/file/lv2s8ouedbjye3m/100epoch.pth/file and put it into the ```/exp/asr_train_asr_transformer_raw_bpe``` path.
+
+You can also use anothe ESPnet pre-trained model or train your own model.
+
+
 Run with:
 ```
 python3 English_Mispronunciation_Detection.py

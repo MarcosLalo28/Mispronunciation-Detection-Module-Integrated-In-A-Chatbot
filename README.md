@@ -24,5 +24,8 @@ Run with:
 
 ```python3 English_Mispronunciation_Detection.py ```
 
+Automatically the AIML alice chatbot be loaded and the chatbot can be used.
+
+![Screenshot from 2021-05-17 13-12-46](https://user-images.githubusercontent.com/92826076/138483469-f3e6bc39-14be-48a4-afe9-40694dfbb86d.png)
 
 

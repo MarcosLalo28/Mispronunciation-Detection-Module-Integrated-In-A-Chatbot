@@ -21,7 +21,8 @@ You can also use another ESPnet pre-trained model or train your own model.
 
 
 Run with:
-```python3 English_Mispronunciation_Detection.py```
+```
+python3 English_Mispronunciation_Detection.py```
 
 
 

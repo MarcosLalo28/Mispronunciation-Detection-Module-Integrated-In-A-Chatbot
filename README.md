@@ -13,6 +13,8 @@ The Transformer Network was trained using ESPnet toolkit. It was employed the Li
 
 It is needed first install ESPnet (https://github.com/espnet/espnet).
 
+Once ESPnet has been installed you can clone the project using:
+
 ```git clone https://github.com/MarcosLalo28/Mispronunciation-Detection-Module-Integrated-In-A-Chatbot.git```
 
 Download the pre-trained model from https://www.mediafire.com/file/lv2s8ouedbjye3m/100epoch.pth/file and put it into the ```/exp/asr_train_asr_transformer_raw_bpe``` path.
